@@ -1,0 +1,4 @@
+.redux-infinite-scroll {
+  overflow: scroll;
+  border: 1px black solid;
+}
